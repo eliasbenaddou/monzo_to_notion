@@ -1,0 +1,7 @@
+logs/
+__pycache__/
+pots.json
+source_accounts.py
+transactions.json
+monzo_auth.pickle
+tokens
